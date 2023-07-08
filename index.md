@@ -13,10 +13,8 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
-
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
-
 				<!-- Intro -->
 					<div id="intro">
 						<h1>ranaの摄影小站</h1>
@@ -26,12 +24,10 @@
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
 					</div>
-
 				<!-- Header -->
 					<header id="header">
 						<a href="index.html" class="logo">Massively</a>
 					</header>
-
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
@@ -46,11 +42,9 @@
 							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 						</ul>
 					</nav>
-
 				<!-- Main -->
 					<div id="main">
-
-						<!-- Featured Post -->
+				<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
 									<span class="date">April 25, 2017</span>
@@ -65,7 +59,6 @@
 									<li><a href="#" class="button large">Full Story</a></li>
 								</ul>
 							</article>
-
 						<!-- Posts -->
 							<section class="posts">
 								<article>
@@ -141,8 +134,7 @@
 									</ul>
 								</article>
 							</section>
-
-						<!-- Footer -->
+					<!-- Footer -->
 							<footer>
 								<div class="pagination">
 									<!--<a href="#" class="previous">Prev</a>-->
@@ -156,9 +148,7 @@
 									<a href="#" class="next">Next</a>
 								</div>
 							</footer>
-
-					</div>
-
+							</div>
 				<!-- Footer -->
 					<footer id="footer">
 						<section>
@@ -207,15 +197,12 @@
 							</section>
 						</section>
 					</footer>
-
-				<!-- Copyright -->
+			<!-- Copyright -->
 					<div id="copyright">
 						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
 					</div>
-
 			</div>
-
-		<!-- Scripts -->
+			<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
@@ -224,5 +211,5 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
-	</body>
+</body>
 </html>
