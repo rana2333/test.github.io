@@ -19,10 +19,9 @@
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>This is<br />
-						Massively</h1>
-						<p>ranaの摄影小站 <br />
-						系一位业余的高中牲<br />爱好摄影 </p>
+						<h1>ranaの摄影小站</h1>
+						<p>系一位业余的高中牲 <br />爱好摄影<br />
+						在日常会出去扫街 展示在本网站<br />不喜误喷（doge </p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
